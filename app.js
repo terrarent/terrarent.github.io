@@ -2,7 +2,7 @@
 (() => {
   const $ = (id) => document.getElementById(id);
   const mozoghat = !matchMedia('(prefers-reduced-motion: reduce)').matches;
-  const TEL = '+36708566191', OLDAL = 'https://terrarent.github.io/';
+  const TEL = '+36209677647', OLDAL = 'https://terrarent.github.io/';
   const SMS = (szoveg) => `sms:${TEL}?&body=${encodeURIComponent(szoveg)}`;
 
   /* --- Óra: Balassagyarmat, elérhetőség, napnyugta --- */
